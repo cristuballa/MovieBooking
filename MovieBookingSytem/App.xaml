@@ -1,0 +1,9 @@
+﻿<Application x:Class="MovieBookingSytem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MovieBookingSytem"
+             StartupUri="Views/Movie.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
